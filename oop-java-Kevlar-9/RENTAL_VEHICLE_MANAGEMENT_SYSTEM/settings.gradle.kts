@@ -1,0 +1,2 @@
+rootProject.name = "RENTAL_VEHICLE_MANAGEMENT_SYSTEM"
+
